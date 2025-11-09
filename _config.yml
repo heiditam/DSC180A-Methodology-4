@@ -1,14 +1,2 @@
 theme: minima
-
-colors:
-  primary: "#1E3A8A"    # deep navy blue
-  secondary: "#3B82F6"  # bright sky blue
-  accent: "#93C5FD"     # soft light blue
-  background: "#F8FAFC" # almost-white blue tint
-  text: "#0F172A"       # dark slate-blue text
-  link: "#2563EB"       # vivid link blue
-  hover: "#1D4ED8"      # darker hover blue
-
-fonts:
-  header: "'Poppins', sans-serif"
-  body: "'Inter', sans-serif"
+title: Heidi Tam's website
